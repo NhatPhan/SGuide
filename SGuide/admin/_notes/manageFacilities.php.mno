@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_getUsername" value="name:ad_username;datatype:string" />
+	<infoitem key="UD_getLastFacilities" value="name:fa_id;datatype:int,name:fa_name;datatype:string,name:SUBSTRING(fa_description, 1, 60);datatype:string" />
+</info>

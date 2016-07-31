@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_faci" value="name:fa_id;datatype:int,name:fa_name;datatype:string" />
+	<infoitem key="UD_login" value="name:ad_id;datatype:int,name:ad_username;datatype:string,name:ad_password;datatype:string,name:ad_permissions;datatype:string" />
+	<infoitem key="UD_faci2" value="name:fa_name;datatype:string" />
+</info>

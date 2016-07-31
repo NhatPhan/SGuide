@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:re_id;datatype:int,name:re_username;datatype:string,name:re_description;datatype:string,name:re_flag;datatype:int,name:facility_id;datatype:int,name:re_datetime;datatype:timestamp" />
+	<infoitem key="UD_reviewQuery" value="name:re_id;datatype:int,name:re_username;datatype:string,name:re_description;datatype:string,name:re_flag;datatype:int,name:facility_id;datatype:int,name:re_datetime;datatype:timestamp" />
+</info>

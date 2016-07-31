@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_getCategories" value="name:fa_id;datatype:int,name:fa_name;datatype:string,name:fa_buildingName;datatype:string,name:fa_floorNumber;datatype:string,name:fa_postalCode;datatype:string,name:fa_streetName;datatype:string,name:fa_unitNumber;datatype:string,name:fa_description;datatype:string,name:fa_houseNumber;datatype:string,name:fa_category;datatype:string" />
+</info>
